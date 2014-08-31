@@ -1,0 +1,19 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Atmel Studio Solution File, Format Version 11.00
+Project("{D1100916-62DA-4D80-A9B4-55A1E7CCEEB3}") = "TIC_Rx_WMBusp", "TIC_Rx_WMBusp.cproj", "{35931881-EEE6-4D32-AE00-5962A84F995C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|AVR = Debug|AVR
+		Release|AVR = Release|AVR
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{35931881-EEE6-4D32-AE00-5962A84F995C}.Debug|AVR.ActiveCfg = Debug|AVR
+		{35931881-EEE6-4D32-AE00-5962A84F995C}.Debug|AVR.Build.0 = Debug|AVR
+		{35931881-EEE6-4D32-AE00-5962A84F995C}.Release|AVR.ActiveCfg = Release|AVR
+		{35931881-EEE6-4D32-AE00-5962A84F995C}.Release|AVR.Build.0 = Release|AVR
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
